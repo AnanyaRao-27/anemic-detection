@@ -1,4 +1,4 @@
-# Anemic
+# Anemic Detection
 
 A simple CNN-based project for anemia detection from eye images.
 
