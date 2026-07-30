@@ -9,7 +9,7 @@ root = tk.Tk()
 root.withdraw()
 
 # Load your trained model
-model_path = r"C:\Users\anany\Desktop\anemic detection\code\anemia_cnn_model.h5"
+model_path = r"C:\Users\anany\OneDrive\Desktop\anemic detection\code\anemia_cnn_model.h5"
 model = tf.keras.models.load_model(model_path)
 
 # Open file dialog to select image
